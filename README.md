@@ -46,10 +46,13 @@ Represents the **percentage distribution of student participation in activities*
 ## 🛠 Technologies Used
 
 -![Python](https://img.shields.io/badge/Python-3.x-blue) **Python**
+
 -![Matplotlib](https://img.shields.io/badge/Library-Matplotlib-orange)
 **Matplotlib**
+
 -![Jupyter](https://img.shields.io/badge/Notebook-Jupyter-yellow)
  **NumPy**
+ 
 -![Status](https://img.shields.io/badge/Project-Completed-brightgreen) **Jupyter Notebook**
 
 ## 📁 Project Structure

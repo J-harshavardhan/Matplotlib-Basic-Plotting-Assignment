@@ -26,22 +26,19 @@ Shows how students participate in extracurricular activities such as Sports, Mus
 
 ## 📊 Visualizations Implemented
 
-### 🔹![Line Plot](images/line_plot.png) Line Plot
+### 🔹 Line Plot
 Used to visualize the trend between **study hours and marks obtained**.
 
-### 🔹![Scatter Plot](images/scatter_plot.png)
- Scatter Plot
+### 🔹 Scatter Plot
 Displays individual data points to analyze the relationship between study hours and marks.
 
-### 🔹![Bar Chart](images/bar_chart.png)
- Grouped Bar Chart
+### 🔹 Grouped Bar Chart
 Compares **Mathematics and Science scores** across different students.
 
-### 🔹![Histogram](images/histogram.png)
- Histogram
+### 🔹 Histogram
 Shows the **distribution of marks** among 50 students using bins.
 
-### 🔹![Pie Chart](images/pie_chart.png) Pie Chart
+### 🔹Pie Chart
 Represents the **percentage distribution of student participation in activities**.
 
 ---

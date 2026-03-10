@@ -50,6 +50,8 @@ Represents the **percentage distribution of student participation in activities*
 - **NumPy**
 - **Jupyter Notebook**
 
+## 📁 Project Structure
+
 matplotlib-assignment/
 │
 ├── Matplotlib_Assignment_Jagannati_Harshavardhan.ipynb
@@ -83,8 +85,13 @@ matplotlib-assignment/
 
 ---
 
+
+
 ## 📜 License
 This project is created for educational purposes as part of a **Matplotlib data visualization assignment**.
 ---
 
-## 📁 Project Structure
+
+
+
+

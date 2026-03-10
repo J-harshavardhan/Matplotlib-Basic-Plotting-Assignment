@@ -26,29 +26,34 @@ Shows how students participate in extracurricular activities such as Sports, Mus
 
 ## 📊 Visualizations Implemented
 
-### 🔹 Line Plot
+### 🔹![Line Plot](images/line_plot.png) Line Plot
 Used to visualize the trend between **study hours and marks obtained**.
 
-### 🔹 Scatter Plot
+### 🔹![Scatter Plot](images/scatter_plot.png)
+ Scatter Plot
 Displays individual data points to analyze the relationship between study hours and marks.
 
-### 🔹 Grouped Bar Chart
+### 🔹![Bar Chart](images/bar_chart.png)
+ Grouped Bar Chart
 Compares **Mathematics and Science scores** across different students.
 
-### 🔹 Histogram
+### 🔹![Histogram](images/histogram.png)
+ Histogram
 Shows the **distribution of marks** among 50 students using bins.
 
-### 🔹 Pie Chart
+### 🔹![Pie Chart](images/pie_chart.png) Pie Chart
 Represents the **percentage distribution of student participation in activities**.
 
 ---
 
 ## 🛠 Technologies Used
 
-- **Python**
-- **Matplotlib**
-- **NumPy**
-- **Jupyter Notebook**
+-![Python](https://img.shields.io/badge/Python-3.x-blue) **Python**
+-![Matplotlib](https://img.shields.io/badge/Library-Matplotlib-orange)
+**Matplotlib**
+-![Jupyter](https://img.shields.io/badge/Notebook-Jupyter-yellow)
+ **NumPy**
+-![Status](https://img.shields.io/badge/Project-Completed-brightgreen) **Jupyter Notebook**
 
 ## 📁 Project Structure
 
@@ -67,6 +72,14 @@ matplotlib-assignment/
 - Analyzing datasets to identify **patterns and distributions**
 
 ---
+
+## Requirements
+
+Install the required library before running the notebook.
+
+```bin
+pip install matplotlib
+```
 
 ## 🚀 How to Run the Project
 
